@@ -1,0 +1,22 @@
+# personality_game
+
+IDE used was Visual Studio Code. 
+App built using flutter
+Database used - hive
+Built by Rosini Nandakumarran 
+
+# Getting Started
+Should have an IDE that allows you to run Flutter/dart.
+
+Makes sure Flutter SDK version is current.
+Open pubsec.yaml, go to environment to check SDK version needed.
+Make sure you have that version installed.
+
+Make sure your flutter is in the latest version.
+To check run flutter upgrade in cmd prompt.
+
+Run flutter pub get in pubspec.yaml file to fetch dependencies.
+Can be done in the terminal. Make sure you are in your project directory before running.
+
+Once all above have been completed you should be able to run the app.
+Go to main.dart and run from there.
